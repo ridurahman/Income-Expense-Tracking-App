@@ -1,0 +1,54 @@
+body {
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #dce4f2;
+}
+
+h3,
+p,
+.form-label {
+  color: #dce4f2;
+}
+.card-text {
+  color: #734124;
+}
+.container {
+  width: 700px;
+}
+.section {
+  background-color: #61788c;
+  min-height: 100px;
+  max-height: 700px;
+  padding: 20px 30px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.btn {
+  background-color: #dce4f2;
+}
+.menuStyle {
+  text-decoration: none;
+  padding: 5px 10px;
+}
+.pendingItem {
+  color: #dce4f2;
+  background-color: #734124;
+}
+
+.activeItem {
+  color: #734124;
+  background-color: #f2ab6d;
+}
+
+ul {
+  display: flex;
+  padding: 0;
+  justify-content: center;
+}
+.card {
+  background-color: #dce4f2;
+}
+li {
+  list-style: none;
+  text-decoration: none;
+}
